@@ -1,4 +1,6 @@
-# Nuxt Minimal Starter
+# Stripe Payments in Nuxt 4 with Server Routes and Webhooks
+
+Read the full tutorial [here]().
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
