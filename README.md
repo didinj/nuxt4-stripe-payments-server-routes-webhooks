@@ -1,6 +1,6 @@
 # Stripe Payments in Nuxt 4 with Server Routes and Webhooks
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/693eb332b00ad03314a098d2/stripe-payments-in-nuxt-4-with-server-routes-and-webhooks).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
